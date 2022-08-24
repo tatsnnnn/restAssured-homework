@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a9c16c-aa1b-4d07-bf3d-fc18db5bcef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Package/FailureResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Package/RegistrationFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Package/RegistrationScenarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Package/SuccessResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Package/AuthorRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Package/Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Package/RegistrationFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Package/RegistrationFields.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pc/Desktop/restAssured-homework"
   }
 }]]></component>
   <component name="RunManager">
